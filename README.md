@@ -9,7 +9,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/rahul4019/airbnb-clone.git
+   https://github.com/KAMLESH7939/AirBnb
 
    ```
 
