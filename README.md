@@ -1,4 +1,4 @@
-# Airbnb Clone
+# Full-Stack Vacation Rental & Booking Platform
 
 ## Overview
 
