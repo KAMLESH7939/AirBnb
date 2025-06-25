@@ -76,23 +76,23 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 
 - **Search Listings:** Users can search for accommodations.
 
-  ![Airbnb Logo](client/public/assets/search.png)
+  ![Airbnb Logo](frontend/src/assets/publi/search.png)
 
 - **View Listings:** Users can view detailed information about each accommodation, including photos, descriptions, amenities.
 
-  ![Airbnb Logo](client/public/assets/view.png)
+  ![Airbnb Logo](frontend/src/assets/publi/view.png)
 
 - **Make Bookings:** Authenticated users can book accommodations for specific dates.
 
-  ![Airbnb Logo](client/public/assets/book.png)
+  ![Airbnb Logo](frontend/src/assets/publi/book.png)
 
 - **Manage Listings:** Hosts can create, edit, and delete their listings.
 
-  ![Airbnb Logo](client/public/assets/manage.png)
+  ![Airbnb Logo](frontend/src/assets/publi/manage.png)
 
 - **Responsive Design:** The application is designed to be responsive and work seamlessly across different devices.
 
-  ![Airbnb Logo](client/public/assets/hero.png)
+  ![Airbnb Logo](frontend/src/assets/publi/hero.png)
 
 ## Technologies Used
 
